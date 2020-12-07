@@ -10,6 +10,10 @@
 - **ReactConf 2018: React Today and Tomorrow**  
   https://www.youtube.com/watch?v=dpw9EHDh2bM  
   Sophie Alpert and Dan Abramov's talk unveiling hooks, live at ReactConf 2018.
+
+- **A Complete Guide to `useEffect`**  
+  https://overreacted.io/a-complete-guide-to-useeffect/  
+  An incredibly detailed deep dive by Dan Abramov into the mindset of using hooks correctly.  Covers the relationship between class lifecycles and hooks, how to work with the dependencies array, dealing with closures and stale data, and much much more. This is required reading for anyone using hooks.
   
 - **Making Sense of React Hooks**  
   https://dev.to/dan_abramov/making-sense-of-react-hooks-2eib  
@@ -53,6 +57,11 @@
 - **React hooks: not magic, just arrays**  
   https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e  
   Describes how the "rules of hooks" are all about React's use of arrays (or linked lists) internally, with diagrams to illustrate how the behavior is implemented.
+  
+- **Getting Closure on Hooks**  
+  https://www.youtube.com/watch?v=KJP1E-Y-xyo  
+  https://www.swyx.io/getting-closure-on-hooks/  
+  Shawn Wang's excellent talk and post that shows how hooks work by building a mini-React with hooks in just a few lines of code
   
 - **Why React Hooks, and how did we even get here?**  
   https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af  
